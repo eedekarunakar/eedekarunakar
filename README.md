@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at [eedekarunakar.netlify.app](https://eedekarunakar.netlify.app/)
 - 📄 My resume builder: [Resume](https://eedekarunakar.netlify.app/)
 - 💬 Ask me about **React, Spring Boot, AI/ML, Python,Java Full Stack**
-- 📫 How to reach me: **eedekarunakar@gmail.com** *(replace with your real email)*
+- 📫 How to reach me: **eedekarunakar@gmail.com**
 - ⚡ Fun fact: I mentor developers and students across India
 
 <h3 align="left">Connect with me:</h3>
