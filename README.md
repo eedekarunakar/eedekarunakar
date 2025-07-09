@@ -51,10 +51,4 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="eedekarunakar" />
   </a>
 </p>
-<div align="center">
-  <h2>GitHub Profile Views !</h2>
-</div>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/eedekarunakar/count.svg?" alt="GitHub Profile Views" />
-</div>
