@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karunakar Eede</h1>
-<h3 align="center">AI/ML Specialist | Full Stack Developer | Technical Trainer | Freelancer</h3>
+<h3 align="center">Agentic AI Expert | AI/ML Specialist | Full Stack Developer | Technical Trainer | Freelancer</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=eedekarunakar" alt="eedekarunakar" />
