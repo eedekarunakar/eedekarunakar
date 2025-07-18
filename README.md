@@ -9,7 +9,7 @@
 - 💼 I freelance on [Upwork](https://www.upwork.com/freelancers/~017ed03093916b54fe)
 - 🧠 I teach **Java Full Stack, Python, AI/ML, and Web Development**
 - 👨‍💻 All of my projects are available at [eedekarunakar.netlify.app](https://eedekarunakar.netlify.app/)
-- 📄 My resume builder: [Resume](https://eedekarunakar.netlify.app/)
+- 📄 My resume: [Resume](https://eedekarunakar.netlify.app/)
 - 💬 Ask me about **React, Spring Boot, AI/ML, Python,Java Full Stack**
 - 📫 How to reach me: **eedekarunakar@gmail.com**
 - ⚡ Fun fact: I mentor developers and students across India
