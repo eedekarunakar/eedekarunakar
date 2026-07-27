@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=eedekarunakar" alt="eedekarunakar" />
 </p>
 
-- 🔭 I’m currently working as **Technical Lead at Tekworks**
+- 🔭 I’m currently working as **Master Trainer at Calibo**
 - 💼 I freelance on [Upwork](https://www.upwork.com/freelancers/~017ed03093916b54fe)
 - 🧠 I teach **Java Full Stack, Python, AI/ML, and Web Development**
 - 👨‍💻 All of my projects are available at [eedekarunakar.netlify.app](https://eedekarunakar.netlify.app/)
